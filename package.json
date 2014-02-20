@@ -1,6 +1,6 @@
 {
   "name": "bom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jake AuYeung",
   "description": "帮我买旗下品牌OM前端自动化解决工具，基于开源工具fis",
   "homepage": "http://www.b5m.com",
@@ -21,7 +21,7 @@
   },
   "preferGlobal": true,
   "dependencies": {
-    "fis": "1.4.19",
+    "fis": "1.7.1",
     "fis-parser-less": "0.0.8",
     "fis-postprocessor-jswrapper": "0.0.8",
     "fis-optimizer-uglify-js": "0.1.1",
